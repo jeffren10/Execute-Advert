@@ -24,7 +24,7 @@ const closeMenu = () => setClick(false)
             <a href='home' onClick={closeMenu}>Home</a>
           </li>
           <li className='nav-item'>
-            <a href='#about' onClick={closeMenu}>About</a>
+            <a href='#about 1' onClick={closeMenu}>About</a>
           </li>
           <li className='nav-item'>
             <a href='#testimonials' onClick={closeMenu}>Testimonials</a>
