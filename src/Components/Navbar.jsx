@@ -33,7 +33,6 @@ const closeMenu = () => setClick(false)
             <a href='#demo' onClick={closeMenu}>Demo</a>
           </li>
         </u1>
-        
       </nav>
     </div>
   )
