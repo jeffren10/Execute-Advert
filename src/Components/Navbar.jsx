@@ -24,13 +24,13 @@ const closeMenu = () => setClick(false)
             <a href='home' onClick={closeMenu}>Home</a>
           </li>
           <li className='nav-item'>
-            <a href='#about 1' onClick={closeMenu}>About</a>
+            <a href='#about' onClick={closeMenu}>About</a>
           </li>
           <li className='nav-item'>
-            <a href='#testimonials 1' onClick={closeMenu}>Testimonials</a>
+            <a href='#testimonials' onClick={closeMenu}>Testimonials</a>
           </li>
           <li className='nav-item'>
-            <a href='#demo 1' onClick={closeMenu}>Demo</a>
+            <a href='#demo' onClick={closeMenu}>Demo</a>
           </li>
         </u1>
       </nav>
